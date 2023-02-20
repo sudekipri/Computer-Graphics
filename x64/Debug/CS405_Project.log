@@ -1,0 +1,156 @@
+﻿  Game.cpp
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(46,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(57,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(68,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Model.h(184,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(31,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(32,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(56,44): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Game.h(76,2): warning C4091: 'static ': ignored on left of 'Game' when no variable is declared
+  main.cpp
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(46,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(57,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(68,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Model.h(184,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(31,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(32,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(56,44): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Game.h(76,2): warning C4091: 'static ': ignored on left of 'Game' when no variable is declared
+  Renderer.cpp
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(46,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(57,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Bone.h(68,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Model.h(184,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(31,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(32,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(56,44): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Animation.h(98,21): warning C4018: '<': signed/unsigned mismatch
+  Shader.cpp
+  VAO.cpp
+  Variables.cpp
+  VBO.cpp
+  Generating Code...
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\Model.h(351): warning C4172: returning address of local variable or temporary
+  glad.c
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+main.obj : warning LNK4006: "bool __cdecl CheckCollision(class Entity &,class Entity &)" (?CheckCollision@@YA_NAEAVEntity@@0@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct Frustum __cdecl createFrustumFromCamera(class Camera const &,float,float,float,float)" (?createFrustumFromCamera@@YA?AUFrustum@@AEBVCamera@@MMMM@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct AABB __cdecl generateAABB(class Model const &)" (?generateAABB@@YA?AUAABB@@AEBVModel@@@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "struct Sphere __cdecl generateSphereBV(class Model const &)" (?generateSphereBV@@YA?AUSphere@@AEBVModel@@@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "void __cdecl stbi__unpremultiply_on_load_thread(int)" (?stbi__unpremultiply_on_load_thread@@YAXH@Z) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_convert_iphone_png_to_rgb already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_convert_iphone_png_to_rgb_thread already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_failure_reason already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_hdr_to_ldr_gamma already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_hdr_to_ldr_scale already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_image_free already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_info already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_info_from_callbacks already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_info_from_file already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_info_from_memory already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_16_bit already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_16_bit_from_callbacks already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_16_bit_from_file already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_16_bit_from_memory already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_hdr already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_hdr_from_callbacks already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_hdr_from_file already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_is_hdr_from_memory already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_ldr_to_hdr_gamma already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_ldr_to_hdr_scale already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_16 already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_16_from_callbacks already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_16_from_memory already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_from_callbacks already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_from_file already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_from_file_16 already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_from_memory already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_load_gif_from_memory already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_loadf already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_loadf_from_callbacks already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_loadf_from_file already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_loadf_from_memory already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_set_flip_vertically_on_load already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_set_flip_vertically_on_load_thread already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_set_unpremultiply_on_load already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_zlib_decode_buffer already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_zlib_decode_malloc already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_zlib_decode_malloc_guesssize already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_zlib_decode_malloc_guesssize_headerflag already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_zlib_decode_noheader_buffer already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: stbi_zlib_decode_noheader_malloc already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "unsigned int const SCR_WIDTH" (?SCR_WIDTH@@3IB) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "unsigned int const SCR_HEIGHT" (?SCR_HEIGHT@@3IB) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "float lastX" (?lastX@@3MA) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "float lastY" (?lastY@@3MA) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "bool firstMouse" (?firstMouse@@3_NA) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "float deltaTime" (?deltaTime@@3MA) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "float lastFrame" (?lastFrame@@3MA) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "int health" (?health@@3HA) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "int points" (?points@@3HA) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "class Camera camera" (?camera@@3VCamera@@A) already defined in Game.obj; second definition ignored
+main.obj : warning LNK4006: "class Camera cameraSpy" (?cameraSpy@@3VCamera@@A) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "bool __cdecl CheckCollision(class Entity &,class Entity &)" (?CheckCollision@@YA_NAEAVEntity@@0@Z) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "struct Frustum __cdecl createFrustumFromCamera(class Camera const &,float,float,float,float)" (?createFrustumFromCamera@@YA?AUFrustum@@AEBVCamera@@MMMM@Z) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "struct AABB __cdecl generateAABB(class Model const &)" (?generateAABB@@YA?AUAABB@@AEBVModel@@@Z) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "struct Sphere __cdecl generateSphereBV(class Model const &)" (?generateSphereBV@@YA?AUSphere@@AEBVModel@@@Z) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "void __cdecl stbi__unpremultiply_on_load_thread(int)" (?stbi__unpremultiply_on_load_thread@@YAXH@Z) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_convert_iphone_png_to_rgb already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_convert_iphone_png_to_rgb_thread already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_failure_reason already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_hdr_to_ldr_gamma already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_hdr_to_ldr_scale already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_image_free already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_info already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_info_from_callbacks already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_info_from_file already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_info_from_memory already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_16_bit already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_16_bit_from_callbacks already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_16_bit_from_file already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_16_bit_from_memory already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_hdr already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_hdr_from_callbacks already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_hdr_from_file already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_is_hdr_from_memory already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_ldr_to_hdr_gamma already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_ldr_to_hdr_scale already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_16 already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_16_from_callbacks already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_16_from_memory already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_from_callbacks already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_from_file already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_from_file_16 already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_from_memory already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_load_gif_from_memory already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_loadf already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_loadf_from_callbacks already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_loadf_from_file already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_loadf_from_memory already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_set_flip_vertically_on_load already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_set_flip_vertically_on_load_thread already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_set_unpremultiply_on_load already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_zlib_decode_buffer already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_zlib_decode_malloc already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_zlib_decode_malloc_guesssize already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_zlib_decode_malloc_guesssize_headerflag already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_zlib_decode_noheader_buffer already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: stbi_zlib_decode_noheader_malloc already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "unsigned int const SCR_WIDTH" (?SCR_WIDTH@@3IB) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "unsigned int const SCR_HEIGHT" (?SCR_HEIGHT@@3IB) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "float lastX" (?lastX@@3MA) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "float lastY" (?lastY@@3MA) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "bool firstMouse" (?firstMouse@@3_NA) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "float deltaTime" (?deltaTime@@3MA) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "float lastFrame" (?lastFrame@@3MA) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "int health" (?health@@3HA) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "int points" (?points@@3HA) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "class Camera camera" (?camera@@3VCamera@@A) already defined in Game.obj; second definition ignored
+Renderer.obj : warning LNK4006: "class Camera cameraSpy" (?cameraSpy@@3VCamera@@A) already defined in Game.obj; second definition ignored
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\karah\Desktop\CS405_Project\CS405_Project\x64\Debug\CS405_Project.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  CS405_Project.vcxproj -> C:\Users\karah\Desktop\CS405_Project\CS405_Project\x64\Debug\CS405_Project.exe
